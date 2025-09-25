@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d403a17a-981d-4b5d-bfd4-a037b1c86060" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PDQ/sqliteTest.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VL2IyqzWtPE62butJuYzjrtqRH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/burakocto/octo.test/HYAS Protect&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../octo.test/HYAS Protect" />
+      <recent name="$PROJECT_DIR$/../octo.test" />
+      <recent name="$PROJECT_DIR$/../octo.test/Logsign" />
+      <recent name="$PROJECT_DIR$/../octo.test/General/kermi" />
+      <recent name="$PROJECT_DIR$/../octo.test/ManageEngineOpManager" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../octo.test/General/Workshop" />
+      <recent name="$PROJECT_DIR$/../octo.test/Cyberreason EDR" />
+      <recent name="$PROJECT_DIR$/../octo.test/General/mustafa_case" />
+      <recent name="$PROJECT_DIR$/../octo.test/General/uli_case" />
+      <recent name="$PROJECT_DIR$/../octo.test/ManageEngine SDP/Assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.general">
+    <configuration name="dummy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="octo.test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../octo.test/Crowdstrike Discover" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../octo.test/Crowdstrike Discover/dummy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="general" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="octo.test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../octo.test/General" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../octo.test/General/general.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="greatest_case_of_all_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="octo.test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../octo.test/General/interview_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../octo.test/General/interview_tests/greatest_case_of_all_time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="log_analytics_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="octo.test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../octo.test/General" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../octo.test/General/log_analytics_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="octo.test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="step_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="octo.test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../octo.test/General/RequestFactoryCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../octo.test/General/RequestFactoryCase/step_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.general" />
+        <item itemvalue="Python.log_analytics_case" />
+        <item itemvalue="Python.dummy" />
+        <item itemvalue="Python.greatest_case_of_all_time" />
+        <item itemvalue="Python.step_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d403a17a-981d-4b5d-bfd4-a037b1c86060" name="Changes" comment="" />
+      <created>1694600963558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694600963558</updated>
+      <workItem from="1694600964597" duration="339000" />
+      <workItem from="1694601520758" duration="1953000" />
+      <workItem from="1694689387255" duration="8090000" />
+      <workItem from="1694773191687" duration="4910000" />
+      <workItem from="1694789910573" duration="1974000" />
+      <workItem from="1694943536635" duration="1398000" />
+      <workItem from="1695030496415" duration="4666000" />
+      <workItem from="1695057054645" duration="599000" />
+      <workItem from="1695216310817" duration="6209000" />
+      <workItem from="1695639088277" duration="2609000" />
+      <workItem from="1695713672107" duration="602000" />
+      <workItem from="1695900427609" duration="2190000" />
+      <workItem from="1695910101618" duration="591000" />
+      <workItem from="1695914899276" duration="4795000" />
+      <workItem from="1696252425232" duration="673000" />
+      <workItem from="1696412689056" duration="1047000" />
+      <workItem from="1696416247530" duration="1370000" />
+      <workItem from="1696500619666" duration="1925000" />
+      <workItem from="1697026115511" duration="5322000" />
+      <workItem from="1697048733291" duration="8968000" />
+      <workItem from="1697093252750" duration="5716000" />
+      <workItem from="1697103502683" duration="906000" />
+      <workItem from="1697104514846" duration="628000" />
+      <workItem from="1697111054003" duration="1515000" />
+      <workItem from="1697117028940" duration="83000" />
+      <workItem from="1697650141512" duration="10276000" />
+      <workItem from="1697788229801" duration="598000" />
+      <workItem from="1698069274522" duration="6000" />
+      <workItem from="1698319185368" duration="1324000" />
+      <workItem from="1698388093113" duration="750000" />
+      <workItem from="1698672627750" duration="1662000" />
+      <workItem from="1698834269422" duration="1479000" />
+      <workItem from="1698837497979" duration="26260000" />
+      <workItem from="1699008620501" duration="10667000" />
+      <workItem from="1699278919704" duration="3314000" />
+      <workItem from="1699337315998" duration="598000" />
+      <workItem from="1699353314991" duration="2386000" />
+      <workItem from="1699368012062" duration="1680000" />
+      <workItem from="1699433120619" duration="497000" />
+      <workItem from="1699433639866" duration="9000" />
+      <workItem from="1699614329989" duration="598000" />
+      <workItem from="1699615607712" duration="293000" />
+      <workItem from="1699883704681" duration="2618000" />
+      <workItem from="1699942841639" duration="2879000" />
+      <workItem from="1699947175499" duration="9945000" />
+      <workItem from="1699984092289" duration="6000" />
+      <workItem from="1700115780225" duration="800000" />
+      <workItem from="1700135974349" duration="2783000" />
+      <workItem from="1700148642738" duration="6000" />
+      <workItem from="1700151906915" duration="97000" />
+      <workItem from="1700546997736" duration="629000" />
+      <workItem from="1700602550695" duration="716000" />
+      <workItem from="1700677232740" duration="2750000" />
+      <workItem from="1701087630303" duration="1529000" />
+      <workItem from="1701151443801" duration="9000" />
+      <workItem from="1701151715205" duration="635000" />
+      <workItem from="1701179680666" duration="2176000" />
+      <workItem from="1701238329423" duration="8000" />
+      <workItem from="1701264574268" duration="762000" />
+      <workItem from="1701266380407" duration="27000" />
+      <workItem from="1701273433275" duration="5093000" />
+      <workItem from="1701350878343" duration="4569000" />
+      <workItem from="1701357972066" duration="1188000" />
+      <workItem from="1701414137769" duration="619000" />
+      <workItem from="1701688838382" duration="4826000" />
+      <workItem from="1701786672963" duration="2000" />
+      <workItem from="1702488831213" duration="42000" />
+      <workItem from="1702488898653" duration="231000" />
+      <workItem from="1702494482908" duration="32000" />
+      <workItem from="1702559687489" duration="1835000" />
+      <workItem from="1702580985877" duration="4121000" />
+      <workItem from="1702625715541" duration="3643000" />
+      <workItem from="1702651125520" duration="7142000" />
+      <workItem from="1702666618680" duration="599000" />
+      <workItem from="1702821779963" duration="598000" />
+      <workItem from="1702993034156" duration="11694000" />
+      <workItem from="1703052563474" duration="17323000" />
+      <workItem from="1703090710623" duration="616000" />
+      <workItem from="1703146394196" duration="598000" />
+      <workItem from="1703168518944" duration="9729000" />
+      <workItem from="1703489733961" duration="10055000" />
+      <workItem from="1704460278248" duration="2049000" />
+      <workItem from="1704867361990" duration="598000" />
+      <workItem from="1704886131191" duration="22000" />
+      <workItem from="1705053529036" duration="841000" />
+      <workItem from="1705058056900" duration="646000" />
+      <workItem from="1705342782963" duration="1895000" />
+      <workItem from="1706000353250" duration="1415000" />
+      <workItem from="1706050060624" duration="3116000" />
+      <workItem from="1706054497947" duration="1946000" />
+      <workItem from="1706056456298" duration="6293000" />
+      <workItem from="1706098700661" duration="2172000" />
+      <workItem from="1706165056077" duration="8581000" />
+      <workItem from="1706279862288" duration="2984000" />
+      <workItem from="1706359702343" duration="1201000" />
+      <workItem from="1706544177915" duration="771000" />
+      <workItem from="1706630153549" duration="1264000" />
+      <workItem from="1706772439036" duration="8000" />
+      <workItem from="1707226531227" duration="8331000" />
+      <workItem from="1707331550170" duration="5602000" />
+      <workItem from="1707483038704" duration="4000" />
+      <workItem from="1707686748617" duration="6106000" />
+      <workItem from="1707738155613" duration="532000" />
+      <workItem from="1707738733118" duration="9000" />
+      <workItem from="1707739267488" duration="2953000" />
+      <workItem from="1707743881189" duration="170000" />
+      <workItem from="1707819168100" duration="503000" />
+      <workItem from="1707825849480" duration="626000" />
+      <workItem from="1707892823842" duration="4582000" />
+      <workItem from="1708079713889" duration="1365000" />
+      <workItem from="1708325046239" duration="13000" />
+      <workItem from="1708420533446" duration="744000" />
+      <workItem from="1708475141308" duration="272000" />
+      <workItem from="1708518861075" duration="5558000" />
+      <workItem from="1708554711171" duration="737000" />
+      <workItem from="1708556324599" duration="1000" />
+      <workItem from="1708599342551" duration="755000" />
+      <workItem from="1708600103056" duration="2034000" />
+      <workItem from="1709028653580" duration="16393000" />
+      <workItem from="1709187442151" duration="12000" />
+      <workItem from="1709543827715" duration="4304000" />
+      <workItem from="1709618948278" duration="356000" />
+      <workItem from="1709620348453" duration="725000" />
+      <workItem from="1709621122928" duration="112000" />
+      <workItem from="1709634015676" duration="11190000" />
+      <workItem from="1709727302171" duration="4000" />
+      <workItem from="1709727312625" duration="3751000" />
+      <workItem from="1710256715843" duration="5981000" />
+      <workItem from="1710285485872" duration="739000" />
+      <workItem from="1710417044517" duration="1379000" />
+      <workItem from="1710424672616" duration="6000" />
+      <workItem from="1710470366482" duration="3382000" />
+      <workItem from="1710499998563" duration="2000" />
+      <workItem from="1710500538188" duration="354000" />
+      <workItem from="1710746881778" duration="1209000" />
+      <workItem from="1710845900659" duration="4000" />
+      <workItem from="1710852850537" duration="9131000" />
+      <workItem from="1710891970357" duration="2258000" />
+      <workItem from="1711319163438" duration="12491000" />
+      <workItem from="1711384224447" duration="211000" />
+      <workItem from="1711384445705" duration="9098000" />
+      <workItem from="1711413401012" duration="3503000" />
+      <workItem from="1711475020160" duration="5388000" />
+      <workItem from="1711494440927" duration="1724000" />
+      <workItem from="1711545567024" duration="12884000" />
+      <workItem from="1711650213874" duration="3379000" />
+      <workItem from="1711700248714" duration="2457000" />
+      <workItem from="1711718006725" duration="230000" />
+      <workItem from="1711722171203" duration="5096000" />
+      <workItem from="1711981969497" duration="3000" />
+      <workItem from="1711983267926" duration="268000" />
+      <workItem from="1712044069429" duration="947000" />
+      <workItem from="1712059376317" duration="614000" />
+      <workItem from="1712065427579" duration="649000" />
+      <workItem from="1712097556807" duration="680000" />
+      <workItem from="1712155860312" duration="2000" />
+      <workItem from="1712227409553" duration="630000" />
+      <workItem from="1712309792477" duration="2908000" />
+      <workItem from="1712688399989" duration="2661000" />
+      <workItem from="1713355781489" duration="14376000" />
+      <workItem from="1713866823550" duration="3490000" />
+      <workItem from="1713951284776" duration="2699000" />
+      <workItem from="1714037696105" duration="617000" />
+      <workItem from="1714049293762" duration="14510000" />
+      <workItem from="1714075839734" duration="6341000" />
+      <workItem from="1714389030661" duration="4762000" />
+      <workItem from="1714739636321" duration="1838000" />
+      <workItem from="1715032450345" duration="181000" />
+      <workItem from="1715167731226" duration="4530000" />
+      <workItem from="1715329693600" duration="2915000" />
+      <workItem from="1715611858230" duration="705000" />
+      <workItem from="1715615022124" duration="6000" />
+      <workItem from="1715636943683" duration="600000" />
+      <workItem from="1715688551359" duration="7000" />
+      <workItem from="1715758725315" duration="361000" />
+      <workItem from="1715890096245" duration="8000" />
+      <workItem from="1715890112045" duration="745000" />
+      <workItem from="1716244487715" duration="613000" />
+      <workItem from="1716319010482" duration="337000" />
+      <workItem from="1716319513404" duration="4532000" />
+      <workItem from="1716451680837" duration="3057000" />
+      <workItem from="1716814429506" duration="1670000" />
+      <workItem from="1716821051556" duration="1410000" />
+      <workItem from="1716899784281" duration="2205000" />
+      <workItem from="1716968971445" duration="4000" />
+      <workItem from="1716968984853" duration="1000" />
+      <workItem from="1717421237839" duration="7871000" />
+      <workItem from="1717750275702" duration="1215000" />
+      <workItem from="1718291237830" duration="27136000" />
+      <workItem from="1719229227249" duration="2225000" />
+      <workItem from="1719234713891" duration="11370000" />
+      <workItem from="1719247326652" duration="3940000" />
+      <workItem from="1719383634247" duration="4253000" />
+      <workItem from="1719394702857" duration="5936000" />
+      <workItem from="1719408528436" duration="1000" />
+      <workItem from="1719580220350" duration="10158000" />
+      <workItem from="1720682336899" duration="598000" />
+      <workItem from="1720696123966" duration="166000" />
+      <workItem from="1721387933581" duration="1944000" />
+      <workItem from="1721645336872" duration="9676000" />
+      <workItem from="1722263963918" duration="11463000" />
+      <workItem from="1722613708822" duration="877000" />
+      <workItem from="1722771460363" duration="4848000" />
+      <workItem from="1722861748032" duration="10779000" />
+      <workItem from="1722961261088" duration="75000" />
+      <workItem from="1723013612195" duration="1653000" />
+      <workItem from="1723032767322" duration="128000" />
+      <workItem from="1723034078210" duration="12000" />
+      <workItem from="1723047730457" duration="899000" />
+      <workItem from="1723298554331" duration="653000" />
+      <workItem from="1723471562773" duration="599000" />
+      <workItem from="1723546426996" duration="14000" />
+      <workItem from="1723548915871" duration="1294000" />
+      <workItem from="1723553806643" duration="4950000" />
+      <workItem from="1723632460432" duration="598000" />
+      <workItem from="1723640045549" duration="5718000" />
+      <workItem from="1724222824600" duration="7000" />
+      <workItem from="1724235057781" duration="93000" />
+      <workItem from="1724235452626" duration="1720000" />
+      <workItem from="1724311043710" duration="761000" />
+      <workItem from="1724507184317" duration="9004000" />
+      <workItem from="1725124215292" duration="2049000" />
+      <workItem from="1725223611671" duration="1468000" />
+      <workItem from="1725353715979" duration="12000" />
+      <workItem from="1725370854689" duration="1765000" />
+      <workItem from="1725436639911" duration="1240000" />
+      <workItem from="1725534673413" duration="5826000" />
+      <workItem from="1725905761730" duration="503000" />
+      <workItem from="1725914741414" duration="8757000" />
+      <workItem from="1726043289565" duration="2038000" />
+      <workItem from="1726224675921" duration="626000" />
+      <workItem from="1726577312261" duration="4671000" />
+      <workItem from="1726666910893" duration="256000" />
+      <workItem from="1726667182137" duration="6000" />
+      <workItem from="1726703235543" duration="1020000" />
+      <workItem from="1726747770136" duration="1673000" />
+      <workItem from="1726831904286" duration="756000" />
+      <workItem from="1727073855182" duration="598000" />
+      <workItem from="1727075070359" duration="601000" />
+      <workItem from="1727096042332" duration="6852000" />
+      <workItem from="1727158251958" duration="254000" />
+      <workItem from="1727176755259" duration="1138000" />
+      <workItem from="1727188772429" duration="907000" />
+      <workItem from="1727345999307" duration="978000" />
+      <workItem from="1727691428710" duration="7976000" />
+      <workItem from="1727865592272" duration="65000" />
+      <workItem from="1727868572236" duration="1080000" />
+      <workItem from="1727943861221" duration="7000" />
+      <workItem from="1727952860136" duration="682000" />
+      <workItem from="1728381450782" duration="1663000" />
+      <workItem from="1728473476394" duration="24000" />
+      <workItem from="1728474195432" duration="309000" />
+      <workItem from="1728489287178" duration="16000" />
+      <workItem from="1728492067985" duration="1218000" />
+      <workItem from="1728553616289" duration="46000" />
+      <workItem from="1729004062321" duration="2881000" />
+      <workItem from="1729175592199" duration="686000" />
+      <workItem from="1729238644565" duration="598000" />
+      <workItem from="1729264113884" duration="667000" />
+      <workItem from="1729336596215" duration="444000" />
+      <workItem from="1729339102153" duration="150000" />
+      <workItem from="1729339286509" duration="3170000" />
+      <workItem from="1729511289550" duration="415000" />
+      <workItem from="1729517841574" duration="4000" />
+      <workItem from="1729585382011" duration="23000" />
+      <workItem from="1729587417377" duration="167000" />
+      <workItem from="1729606808687" duration="622000" />
+      <workItem from="1729784721216" duration="8556000" />
+      <workItem from="1730025940280" duration="11000" />
+      <workItem from="1730025956596" duration="7000" />
+      <workItem from="1730027584326" duration="171000" />
+      <workItem from="1730031919873" duration="5214000" />
+      <workItem from="1730379814390" duration="10166000" />
+      <workItem from="1730792131034" duration="1316000" />
+      <workItem from="1730809225821" duration="619000" />
+      <workItem from="1730812394982" duration="718000" />
+      <workItem from="1731060367647" duration="1208000" />
+      <workItem from="1731408909202" duration="117000" />
+      <workItem from="1731409331496" duration="604000" />
+      <workItem from="1731413449867" duration="636000" />
+      <workItem from="1731418088274" duration="138000" />
+      <workItem from="1731438270809" duration="2666000" />
+      <workItem from="1731582734400" duration="1241000" />
+      <workItem from="1731921118068" duration="2378000" />
+      <workItem from="1731932174036" duration="477000" />
+      <workItem from="1731932733968" duration="413000" />
+      <workItem from="1731934594531" duration="672000" />
+      <workItem from="1732014845789" duration="737000" />
+      <workItem from="1732017766678" duration="1000" />
+      <workItem from="1732024494014" duration="788000" />
+      <workItem from="1732189728292" duration="1105000" />
+      <workItem from="1732264738117" duration="598000" />
+      <workItem from="1732281812413" duration="109000" />
+      <workItem from="1732458069873" duration="371000" />
+      <workItem from="1732458514842" duration="4000" />
+      <workItem from="1732458525595" duration="1936000" />
+      <workItem from="1732634360099" duration="3670000" />
+      <workItem from="1732705566295" duration="8000" />
+      <workItem from="1732711287263" duration="707000" />
+      <workItem from="1732793888977" duration="4705000" />
+      <workItem from="1732881877597" duration="1302000" />
+      <workItem from="1733129143401" duration="3000" />
+      <workItem from="1733140772499" duration="699000" />
+      <workItem from="1733217445768" duration="598000" />
+      <workItem from="1733232326010" duration="158000" />
+      <workItem from="1733247735475" duration="3283000" />
+      <workItem from="1733266292049" duration="601000" />
+      <workItem from="1733307424097" duration="598000" />
+      <workItem from="1733402461784" duration="791000" />
+      <workItem from="1733740313027" duration="1750000" />
+      <workItem from="1733846839121" duration="69000" />
+      <workItem from="1733848165683" duration="34000" />
+      <workItem from="1733922349584" duration="1224000" />
+      <workItem from="1734180158900" duration="37000" />
+      <workItem from="1734182804464" duration="237000" />
+      <workItem from="1734188404150" duration="1019000" />
+      <workItem from="1734336666197" duration="1227000" />
+      <workItem from="1734419831783" duration="637000" />
+      <workItem from="1734523592986" duration="242000" />
+      <workItem from="1734523972149" duration="856000" />
+      <workItem from="1734611275794" duration="915000" />
+      <workItem from="1734631315544" duration="1668000" />
+      <workItem from="1734885604751" duration="3155000" />
+      <workItem from="1734905997076" duration="1214000" />
+      <workItem from="1734943324962" duration="4569000" />
+      <workItem from="1735031041130" duration="3000" />
+      <workItem from="1735033913791" duration="872000" />
+      <workItem from="1735047647345" duration="435000" />
+      <workItem from="1735109455770" duration="2000" />
+      <workItem from="1735124497004" duration="3582000" />
+      <workItem from="1735997013630" duration="30000" />
+      <workItem from="1736004814046" duration="4350000" />
+      <workItem from="1736422454396" duration="2889000" />
+      <workItem from="1736440264233" duration="8402000" />
+      <workItem from="1736457074961" duration="4000" />
+      <workItem from="1736457089096" duration="5592000" />
+      <workItem from="1737367541758" duration="2760000" />
+      <workItem from="1737379723857" duration="40000" />
+      <workItem from="1737449174071" duration="3512000" />
+      <workItem from="1737490655905" duration="20000" />
+      <workItem from="1737548581628" duration="297000" />
+      <workItem from="1737549261018" duration="676000" />
+      <workItem from="1737626167780" duration="1844000" />
+      <workItem from="1738057606640" duration="24000" />
+      <workItem from="1738140359985" duration="5835000" />
+      <workItem from="1738225275672" duration="2000" />
+      <workItem from="1738233613296" duration="1725000" />
+      <workItem from="1738581582316" duration="7479000" />
+      <workItem from="1738619387400" duration="4000" />
+      <workItem from="1738705333815" duration="601000" />
+      <workItem from="1738706069559" duration="1463000" />
+      <workItem from="1738845199894" duration="208000" />
+      <workItem from="1739387112446" duration="1230000" />
+      <workItem from="1739428903765" duration="1201000" />
+      <workItem from="1739519391877" duration="3713000" />
+      <workItem from="1739965889505" duration="604000" />
+      <workItem from="1739996687727" duration="46000" />
+      <workItem from="1740070860622" duration="965000" />
+      <workItem from="1740139121351" duration="2000" />
+      <workItem from="1740310449714" duration="2388000" />
+      <workItem from="1740389055606" duration="601000" />
+      <workItem from="1740572865507" duration="952000" />
+      <workItem from="1740753283710" duration="4498000" />
+      <workItem from="1741082623386" duration="9008000" />
+      <workItem from="1741331644019" duration="1254000" />
+      <workItem from="1741365987188" duration="4602000" />
+      <workItem from="1741594434164" duration="12453000" />
+      <workItem from="1741707649513" duration="961000" />
+      <workItem from="1741772538882" duration="598000" />
+      <workItem from="1741817322900" duration="2962000" />
+      <workItem from="1741949767887" duration="2000" />
+      <workItem from="1742202572445" duration="4294000" />
+      <workItem from="1742286833116" duration="598000" />
+      <workItem from="1742397268713" duration="766000" />
+      <workItem from="1742458318810" duration="1000" />
+      <workItem from="1742889455434" duration="1447000" />
+      <workItem from="1742977922126" duration="305000" />
+      <workItem from="1742990590009" duration="13000" />
+      <workItem from="1742997130268" duration="625000" />
+      <workItem from="1743066993894" duration="4000" />
+      <workItem from="1743952498120" duration="1173000" />
+      <workItem from="1744018220045" duration="1443000" />
+      <workItem from="1744019909758" duration="823000" />
+      <workItem from="1744034745755" duration="2620000" />
+      <workItem from="1744094774444" duration="7000" />
+      <workItem from="1744353779474" duration="325000" />
+      <workItem from="1744640993125" duration="42000" />
+      <workItem from="1744641062365" duration="3000" />
+      <workItem from="1744641267477" duration="814000" />
+      <workItem from="1744668762851" duration="619000" />
+      <workItem from="1744826717840" duration="2025000" />
+      <workItem from="1744872288475" duration="20000" />
+      <workItem from="1744882501142" duration="725000" />
+      <workItem from="1744925595342" duration="637000" />
+      <workItem from="1744967968808" duration="359000" />
+      <workItem from="1744968693136" duration="1148000" />
+      <workItem from="1744969954381" duration="2695000" />
+      <workItem from="1745178112416" duration="2941000" />
+      <workItem from="1745319737924" duration="1187000" />
+      <workItem from="1745532646621" duration="28000" />
+      <workItem from="1745585350934" duration="1420000" />
+      <workItem from="1745824423823" duration="4390000" />
+      <workItem from="1745912950114" duration="2000" />
+      <workItem from="1745917025454" duration="7130000" />
+      <workItem from="1745945894248" duration="279000" />
+      <workItem from="1746450134139" duration="629000" />
+      <workItem from="1746463027561" duration="17000" />
+      <workItem from="1746545847252" duration="1675000" />
+      <workItem from="1746611150332" duration="598000" />
+      <workItem from="1746656924582" duration="1265000" />
+      <workItem from="1746700690628" duration="640000" />
+      <workItem from="1746784789475" duration="598000" />
+      <workItem from="1747142836087" duration="650000" />
+      <workItem from="1747205398676" duration="9000" />
+      <workItem from="1747379242574" duration="637000" />
+      <workItem from="1747923539697" duration="51000" />
+      <workItem from="1748002035424" duration="8639000" />
+      <workItem from="1748244878088" duration="608000" />
+      <workItem from="1748267618416" duration="1877000" />
+      <workItem from="1748473575117" duration="4470000" />
+      <workItem from="1748515212939" duration="3000" />
+      <workItem from="1749035967181" duration="1434000" />
+      <workItem from="1749045839283" duration="778000" />
+      <workItem from="1749652452198" duration="724000" />
+      <workItem from="1749714662441" duration="623000" />
+      <workItem from="1749729310099" duration="2000" />
+      <workItem from="1749736260254" duration="334000" />
+      <workItem from="1749744219385" duration="689000" />
+      <workItem from="1752837777805" duration="4827000" />
+      <workItem from="1753276815026" duration="3308000" />
+      <workItem from="1753349549012" duration="525000" />
+      <workItem from="1753362079972" duration="4170000" />
+      <workItem from="1753687525594" duration="3641000" />
+      <workItem from="1753860444130" duration="2000" />
+      <workItem from="1754002561953" duration="1545000" />
+      <workItem from="1754035446730" duration="1197000" />
+      <workItem from="1754055988234" duration="614000" />
+      <workItem from="1754300502306" duration="665000" />
+      <workItem from="1754304788728" duration="4334000" />
+      <workItem from="1754401238546" duration="2000" />
+      <workItem from="1754412181487" duration="1266000" />
+      <workItem from="1754468523442" duration="1250000" />
+      <workItem from="1754554062955" duration="1427000" />
+      <workItem from="1754634539188" duration="1206000" />
+      <workItem from="1754910438040" duration="7360000" />
+      <workItem from="1754982820646" duration="6546000" />
+      <workItem from="1755067207357" duration="599000" />
+      <workItem from="1755077899857" duration="7041000" />
+      <workItem from="1755154231240" duration="1319000" />
+      <workItem from="1755167945815" duration="2149000" />
+      <workItem from="1755178799096" duration="598000" />
+      <workItem from="1755257123681" duration="1682000" />
+      <workItem from="1755464706378" duration="282000" />
+      <workItem from="1755606692917" duration="1051000" />
+      <workItem from="1755609848222" duration="117000" />
+      <workItem from="1755610494108" duration="710000" />
+      <workItem from="1755698390838" duration="3000" />
+      <workItem from="1755699373722" duration="2869000" />
+      <workItem from="1755766495598" duration="16000" />
+      <workItem from="1755774421120" duration="1952000" />
+      <workItem from="1755870075925" duration="633000" />
+      <workItem from="1756222475753" duration="611000" />
+      <workItem from="1756280025357" duration="7095000" />
+      <workItem from="1756366535740" duration="598000" />
+      <workItem from="1756741247340" duration="699000" />
+      <workItem from="1756795454390" duration="598000" />
+      <workItem from="1756889715769" duration="1959000" />
+      <workItem from="1757059342513" duration="8026000" />
+      <workItem from="1757928978762" duration="63000" />
+      <workItem from="1758101395763" duration="958000" />
+      <workItem from="1758139717832" duration="598000" />
+      <workItem from="1758261732736" duration="9000" />
+      <workItem from="1758538463087" duration="11000" />
+      <workItem from="1758571446350" duration="293000" />
+      <workItem from="1758612178849" duration="702000" />
+      <workItem from="1758613371008" duration="75000" />
+      <workItem from="1758613744271" duration="4490000" />
+      <workItem from="1758635152260" duration="700000" />
+      <workItem from="1758661192631" duration="756000" />
+      <workItem from="1758707962004" duration="1374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$CSV2JSON.coverage" NAME="CSV2JSON Coverage Results" MODIFIED="1709545330993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General/CSV2JSON" />
+    <SUITE FILE_PATH="coverage/test$elif_step1.coverage" NAME="elif_step1 Coverage Results" MODIFIED="1754911235410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General/interview_tests" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$secfusion_test.coverage" NAME="secfusion_test Coverage Results" MODIFIED="1709028699372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Secfusion" />
+    <SUITE FILE_PATH="coverage/test$dummy__3_.coverage" NAME="dummy (3) Coverage Results" MODIFIED="1742889671369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Logsign" />
+    <SUITE FILE_PATH="coverage/test$key_Vault_fetcher.coverage" NAME="key_Vault_fetcher Coverage Results" MODIFIED="1752843001134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Azure Key Vault" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$auth.coverage" NAME="auth Coverage Results" MODIFIED="1711376121079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General" />
+    <SUITE FILE_PATH="coverage/test$params_test.coverage" NAME="params_test Coverage Results" MODIFIED="1720460096675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Crowdstrike Spotlight" />
+    <SUITE FILE_PATH="coverage/test$script__1_.coverage" NAME="script (1) Coverage Results" MODIFIED="1727108116827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/OctoTests" />
+    <SUITE FILE_PATH="coverage/test$logOnCount_test.coverage" NAME="logOnCount_test Coverage Results" MODIFIED="1727868618524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Active Directory" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$twistlocktest.coverage" NAME="twistlocktest Coverage Results" MODIFIED="1704465616020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General/PDQ Test" />
+    <SUITE FILE_PATH="coverage/test$code1.coverage" NAME="code1 Coverage Results" MODIFIED="1724614158864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General/Scrapper" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$entra_test.coverage" NAME="General Coverage Results" MODIFIED="1711375062217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General" />
+    <SUITE FILE_PATH="coverage/test$greatest_case_of_all_time.coverage" NAME="greatest_case_of_all_time Coverage Results" MODIFIED="1754915461895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General/interview_tests" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$mapping_test.coverage" NAME="mapping-test Coverage Results" MODIFIED="1711486921314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$test.coverage" NAME="test Coverage Results" MODIFIED="1709620369446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scopnet" />
+    <SUITE FILE_PATH="coverage/test$dummy__2_.coverage" NAME="dummy (2) Coverage Results" MODIFIED="1742397407828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Jira Assets" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$pdq_test.coverage" NAME="pdq_test Coverage Results" MODIFIED="1702651192538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General/PDQ Test" />
+    <SUITE FILE_PATH="coverage/test$baserequest_factory.coverage" NAME="baserequest_factory Coverage Results" MODIFIED="1744019366761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General/uli_case" />
+    <SUITE FILE_PATH="coverage/test$case1.coverage" NAME="case1 Coverage Results" MODIFIED="1742202754746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General/alperan case" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$general.coverage" NAME="general Coverage Results" MODIFIED="1710472268075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General" />
+    <SUITE FILE_PATH="coverage/test$General.coverage" NAME="General Coverage Results" MODIFIED="1741693735097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General" />
+    <SUITE FILE_PATH="coverage/test$general_2.coverage" NAME="general_2 Coverage Results" MODIFIED="1744826733679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General" />
+    <SUITE FILE_PATH="coverage/test$step_1.coverage" NAME="step_1 Coverage Results" MODIFIED="1754915034760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General/RequestFactoryCase" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$secfusion_test1.coverage" NAME="secfusion_test1 Coverage Results" MODIFIED="1707732054932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Secfusion" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$dummy__4_.coverage" NAME="dummy (4) Coverage Results" MODIFIED="1711611734383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crowdstrike Spotlight" />
+    <SUITE FILE_PATH="coverage/test$dummy.coverage" NAME="dummy Coverage Results" MODIFIED="1755078890095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Crowdstrike Discover" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$code_challange.coverage" NAME="code_challange Coverage Results" MODIFIED="1703169845813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Twistlock(Prisma Cloud)" />
+    <SUITE FILE_PATH="coverage/test$test.coverage" NAME="test Coverage Results" MODIFIED="1714083128772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Microfocus Ucmdb" />
+    <SUITE FILE_PATH="coverage/test$case2.coverage" NAME="case2 Coverage Results" MODIFIED="1739387117292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General/kermi" />
+    <SUITE FILE_PATH="coverage/test$general.coverage" NAME="general Coverage Results" MODIFIED="1758708730496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General" />
+    <SUITE FILE_PATH="coverage/test$General__1_.coverage" NAME="General (1) Coverage Results" MODIFIED="1718334964779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$dummy__1_.coverage" NAME="dummy (1) Coverage Results" MODIFIED="1711650238053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crowdstrike IDP" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$compare.coverage" NAME="compare Coverage Results" MODIFIED="1709033889727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TM Vision One" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$sqliteTest.coverage" NAME="sqliteTest Coverage Results" MODIFIED="1706268857326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PDQ" />
+    <SUITE FILE_PATH="coverage/test$dummy__1_.coverage" NAME="dummy (1) Coverage Results" MODIFIED="1745223225516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Illumio Core" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$bank.coverage" NAME="bank Coverage Results" MODIFIED="1707325188548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General" />
+    <SUITE FILE_PATH="coverage/test$step1.coverage" NAME="step1 Coverage Results" MODIFIED="1744968696518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General/ali_kocak_case/octoxlabs_case_study-master" />
+    <SUITE FILE_PATH="coverage/test$child_requests.coverage" NAME="child_requests Coverage Results" MODIFIED="1744034774261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General/uli_case" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$secfusion_test2.coverage" NAME="secfusion_test2 Coverage Results" MODIFIED="1707409378279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Secfusion" />
+    <SUITE FILE_PATH="coverage/test$burak_api_test.coverage" NAME="burak_api_test Coverage Results" MODIFIED="1718359156063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/VMWARE ESXI" />
+    <SUITE FILE_PATH="coverage/test$step_2.coverage" NAME="step_2 Coverage Results" MODIFIED="1736457470766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General/RequestFactoryCase" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$dummy.coverage" NAME="dummy Coverage Results" MODIFIED="1711608716910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crowdstrike Discover" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$General.coverage" NAME="General Coverage Results" MODIFIED="1712059391716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$dummy__3_.coverage" NAME="dummy (3) Coverage Results" MODIFIED="1711494096913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TM Vision One" />
+    <SUITE FILE_PATH="coverage/test$sdk_test.coverage" NAME="sdk_test Coverage Results" MODIFIED="1719241480682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/VMWARE ESXI" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$dummy__2_.coverage" NAME="dummy (2) Coverage Results" MODIFIED="1711608482194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Secfusion" />
+    <SUITE FILE_PATH="coverage/test$dict_transfer_test.coverage" NAME="dict_transfer_test Coverage Results" MODIFIED="1722901324293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/PaloAltoFirewall" />
+    <SUITE FILE_PATH="coverage/test$script.coverage" NAME="script Coverage Results" MODIFIED="1727105064050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Octo Tests" />
+    <SUITE FILE_PATH="coverage/test$api_test.coverage" NAME="api_test Coverage Results" MODIFIED="1719397911815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/VMWARE ESXI" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$SQLparse.coverage" NAME="SQLparse Coverage Results" MODIFIED="1710285553912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General" />
+    <SUITE FILE_PATH="coverage/test$authentication.coverage" NAME="authentication Coverage Results" MODIFIED="1746657014322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Cyberreason EDR/API_Code_Samples 2" />
+    <SUITE FILE_PATH="coverage/test$b64encoder.coverage" NAME="b64encoder Coverage Results" MODIFIED="1732793914998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/General" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$b64encoder.coverage" NAME="b64encoder Coverage Results" MODIFIED="1711700670343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$dummy1.coverage" NAME="Scopnet-Fix Coverage Results" MODIFIED="1711384184389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$requesTests.coverage" NAME="requesTests Coverage Results" MODIFIED="1711403569682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crowdstrike IDP" />
+    <SUITE FILE_PATH="coverage/test$dummy__4_.coverage" NAME="dummy (4) Coverage Results" MODIFIED="1741289045152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Jira Assets" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$DatetimeTest.coverage" NAME="DatetimeTest Coverage Results" MODIFIED="1711382868664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General" />
+    <SUITE FILE_PATH="coverage/test$jira_api_tests.coverage" NAME="jira_api_tests Coverage Results" MODIFIED="1730472837184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Jira Insight" />
+    <SUITE FILE_PATH="coverage/test$certificate_fetcher.coverage" NAME="certificate_fetcher Coverage Results" MODIFIED="1752839774246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Cloudflare " />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$csv_to_json.coverage" NAME="csv_to_json Coverage Results" MODIFIED="1702653952827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General/PDQ Test/CSV to Json Trial" />
+    <SUITE FILE_PATH="coverage/test$test_file.coverage" NAME="test_file Coverage Results" MODIFIED="1725224346804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../octo.test/Crowdstrike Discover" />
+    <SUITE FILE_PATH="coverage/kaspersky_sc_json$field_testing.coverage" NAME="field_testing Coverage Results" MODIFIED="1703496550756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SuseManager" />
+  </component>
+</project>
